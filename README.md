@@ -1,7 +1,7 @@
 # Agora RTM Web Demo
 Real Time Messaging application using the Agora.io RTM SDK for texting.
 
-##Prerequisites
+## Prerequisites
 * Install a browser supported by the Agora RTM Web SDK
 * A valid Agora account and App ID.
 
